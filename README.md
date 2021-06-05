@@ -1,4 +1,4 @@
-<br><h2>👋 Hi there, I’m Carl</h2>
+<br><h2> Hi, I’m Carl 👋</h2>
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... MERN Stack With Strive School
 - 💞️ I’m looking to collaborate on ... Web Applications
