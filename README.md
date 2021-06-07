@@ -1,5 +1,5 @@
 <h3> Hi, I’m Carl 👋</h3>
-- 👀 I’m interested in ... Web development, Game development<br>
+- 👀 I’m interested in ... Web development & Game development<br>
 - 🌱  I’m currently learning ... MERN Stack with Strive School<br>
 - 💞️ I’m looking to collaborate on ... Useful web applications that serve a particular purpose or need
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px>   </h2> 
