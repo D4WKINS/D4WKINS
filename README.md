@@ -1,4 +1,4 @@
-<h3> Hi, I’m Carl 👋</h3>
+<h3> Hi, I’m Carl</h3>
 <!-- - 👀 I’m interested in ... Web development & Game development<br>
 - 🌱  I’m currently learning ... MERN Stack with Strive School<br>
 - 💞️ I’m looking to collaborate on ... Useful web applications that serve a particular purpose or need -->
