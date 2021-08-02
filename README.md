@@ -20,6 +20,20 @@
 
 <!-- D4WKINS/D4WKINS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
+ 
+<!--  Some choices in life present themselves as a hilarious set of options.
+
+
+
+One choice opens up options down the left path, and the other the right.
+
+
+
+Carl can go both ways because carl knows full stack
+
+
+
+# hire carl -->
 
  
  
