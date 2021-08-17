@@ -2,7 +2,7 @@
 
 <b>You could say Im a creator at heart, devoted to my craft and dedicated to making things that work.<br>
 My interest lies In building useful web applications & software that serves a particular purpose or need.
-<h3> Im available to work with non-profit organisations who could use the help :)</h3>
+<h3> Im available to work with non-profit organisations that could use the help :)</h3>
 </b>
 
 <!-- - 👀 I’m interested in ... Web development & Game development<br>
