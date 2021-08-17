@@ -16,9 +16,8 @@ My interest lies In building useful web applications & software that serves a pa
 )![<EXPRESS>](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 )![<MONGO>]( 	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 )![<SQL>]( 	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-)<br>
- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
- 
+)
+
  <h3>Here's how you can reach me</h3>
  
 <a href="https://www.linkedin.com/in/cadawkins/">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:carlanthony782@gmail.com">![<Gmail>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
