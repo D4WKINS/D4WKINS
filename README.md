@@ -1,4 +1,4 @@
-<h3>Hello, I’m Carl</h3>
+<h2>Hello, I’m Carl</h2>
 
 <b>You Could say Im a creator at heart, devoted to my craft and dedicated to making things that work.<br>
 My interest lies In building useful web applications & software that serves a particular purpose or need.
