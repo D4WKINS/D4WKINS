@@ -1,8 +1,8 @@
 <h3>Hello, I’m Carl</h3>
 
-<p>You Could say Im a creator at heart, devoted to my craft and dedicated to making things that work.
-Interested In building useful web applications & software that serves a particular purpose or need.
-<h3> Im available to work with non-profit organisations who need the help, free of charge :)</h3>
+<p>You Could say Im a creator at heart, devoted to my craft and dedicated to making things that work.<br>
+My interest lies In building useful web applications & software that serves a particular purpose or need.
+<h3> Im available to non-profit organisations who could use the help, free of charge :)</h3>
 </p>
 
 <!-- - 👀 I’m interested in ... Web development & Game development<br>
