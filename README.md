@@ -2,7 +2,7 @@
 
 
 
-<b>You could say Im a creator at heart and devoted to my craft .<br>
+<b>Guess You could say Im a creator at heart that's devoted to his craft.<br>
 My interest lies In building useful web applications & software that serves a particular purpose or need.
 <h3> Im available to work with non-profit organisations that could use the help :)</h3>
 </b>
