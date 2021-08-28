@@ -3,9 +3,9 @@
 
 
 <b>Guess You could say I'm a creator at heart that's devoted to his craft.<br>
-My interest lies In building useful web applications & software that serves a particular purpose or need.
-<h3> Im available to work with non-profit organisations that could use the help :)</h3>
-</b>
+<p>My interest lies In building useful web applications & software that serves a particular purpose or need.</br>
+ Available to work with non-profit organisations that could use the help :)
+ </p>
 
 <!-- - 👀 I’m interested in ... Web development & Game development<br>
 - 🌱  I’m currently learning ... MERN Stack with Strive School<br>
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes. -->
 <!--  Some choices in life present themselves as a hilarious set of options.
 
 
-
+<!-- 
 One choice opens up options down the left path, and the other the right.
 
 
@@ -39,7 +39,7 @@ Carl can go both ways because carl knows full stack
 
 
 
-# hire carl -->
+# hire carl --> 
 
  
  
