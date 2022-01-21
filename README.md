@@ -2,11 +2,11 @@
 
 
 
-<b>Guess You could say I'm a creator at heart that's devoted to his craft.<br>
+<!-- <b>Guess You could say I'm a creator at heart that's devoted to his craft.<br>
 <p>My interest lies In building useful web applications & software that serves a particular purpose or need.</br>
  Available to work with non-profit organisations that could use the help :)
  </p>
-
+ -->
 <!-- - 👀 I’m interested in ... Web development & Game development<br>
 - 🌱  I’m currently learning ... MERN Stack with Strive School<br>
 - 💞️ I’m looking to collaborate on ... Useful web applications that serve a particular purpose or need -->
