@@ -19,7 +19,7 @@
 )![<MONGO>]( 	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 )![<SQL>]( 	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 )<br/>
-![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4WKINS&show_icons=true&theme=noctis_minimus)
+![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4WKINS&show_icons=true&theme=swift)
  <h3>Here's how you can reach me</h3>
  
 <a href="https://www.linkedin.com/in/cadawkins/">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:carlanthony782@gmail.com">![<Gmail>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
