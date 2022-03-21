@@ -18,6 +18,7 @@
 )![<EXPRESS>](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 )![<MONGO>]( 	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 )![<SQL>]( 	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+ [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 )<br/>
  <br/>
 ![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4WKINS&show_icons=true&theme=swift)
