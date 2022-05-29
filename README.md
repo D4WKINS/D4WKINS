@@ -21,9 +21,7 @@
  <br/>![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)<br/>
  <br/>
 ![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4WKINS&show_icons=true&theme=swift)
- <h3>Here's how you can reach me</h3>
  
-<a href="https://www.linkedin.com/in/cadawkins/">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:carlanthony782@gmail.com">![<Gmail>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <!-- D4WKINS/D4WKINS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
